@@ -1,39 +1,38 @@
-import React from "react";
-import { Counter } from "./features/counter/Counter";
-import "./App.css";
-import ProductList from "./features/product/components/ProductList";
-import Home from "./pages/Home";
-import LoginPage from "./pages/LoginPage";
-import SignUpPage from "./pages/SignupPage";
-import CartPage from "./pages/CartPage";
-import Checkout from "./pages/Checkout";
-import ProductDetailPage from "./pages/ProductDetailPage";
+import { Counter } from './features/counter/Counter';
+import './App.css';
+import Home from './pages/Home';
+import LoginPage from './pages/LoginPage';
+import SignupPage from './pages/SignupPage';
+
 import {
   createBrowserRouter,
   RouterProvider,
   Route,
   Link,
-} from "react-router-dom";
-
+} from 'react-router-dom';
+import Cart from './features/cart/Cart';
+import CartPage from './pages/CartPage';
+import Checkout from './pages/Checkout';
+import ProductDetailPage from './pages/ProductDetailPage';
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: '/',
     element: <Home></Home>,
   },
   {
-    path: "/login",
+    path: '/login',
     element: <LoginPage></LoginPage>,
   },
   {
-    path: "/signup",
-    element: <SignUpPage></SignUpPage>,
+    path: '/signup',
+    element: <SignupPage></SignupPage>,
   },
-  {
-    path: "/cart",
+  { 
+    path: '/cart',
     element: <CartPage></CartPage>,
   },
-  {
-    path: "/checkout",
+  { 
+    path: '/checkout',
     element: <Checkout></Checkout>,
   },
   { 

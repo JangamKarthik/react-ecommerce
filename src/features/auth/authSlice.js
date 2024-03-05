@@ -6,7 +6,6 @@ const initialState = {
   status: 'idle',
 };
 
-
 export const incrementAsync = createAsyncThunk(
   'counter/fetchCount',
   async (amount) => {
@@ -16,17 +15,14 @@ export const incrementAsync = createAsyncThunk(
   }
 );
 
-export const authSlice = createSlice({
+export const counterSlice = createSlice({
   name: 'counter',
   initialState,
-  // The `reducers` field lets us define reducers and generate associated actions
   reducers: {
     increment: (state) => {
-
       state.value += 1;
     },
   },
-
   extraReducers: (builder) => {
     builder
       .addCase(incrementAsync.pending, (state) => {
@@ -39,10 +35,8 @@ export const authSlice = createSlice({
   },
 });
 
-export const { increment } = authSlice.actions;
-
+export const { increment } = counterSlice.actions;
 
 export const selectCount = (state) => state.counter.value;
 
-
-export default authSlice.reducer;
+export default counterSlice.reducer;
