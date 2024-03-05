@@ -8,6 +8,7 @@ export function fetchAllProducts() {
   );
 }
 
+
 export function fetchProductById(id) {
   return new Promise(async (resolve) =>{
     //TODO: we will not hard-code server URL here
