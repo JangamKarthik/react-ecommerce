@@ -4,13 +4,7 @@ import Home from './pages/Home';
 import LoginPage from './pages/LoginPage';
 import SignupPage from './pages/SignupPage';
 
-import {
-  createBrowserRouter,
-  RouterProvider,
-  Route,
-  Link,
-} from 'react-router-dom';
-import Cart from './features/cart/Cart';
+import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import CartPage from './pages/CartPage';
 import Checkout from './pages/Checkout';
 import ProductDetailPage from './pages/ProductDetailPage';
@@ -21,8 +15,11 @@ import { selectLoggedInUser } from './features/auth/authSlice';
 import { fetchItemsByUserIdAsync } from './features/cart/cartSlice';
 import PageNotFound from './pages/404';
 import OrderSuccessPage from './pages/OrderSuccessPage';
-import UserOrders from './features/user/components/UserOrders';
 import UserOrdersPage from './pages/UserOrdersPage';
+import UserProfilePage from './pages/UserProfilePage';
+import { fetchLoggedInUserAsync } from './features/user/userSlice';
+import Logout from './features/auth/components/Logout';
+import ForgotPasswordPage from './pages/ForgotPasswordPage';
 const router = createBrowserRouter([
   {
     path: '/',
@@ -66,35 +63,40 @@ const router = createBrowserRouter([
   },
   {
     path: '/order-success/:id',
-    element: (
-      <OrderSuccessPage></OrderSuccessPage>
-    ),
+    element: <OrderSuccessPage></OrderSuccessPage>,
   },
   {
     path: '/orders',
-    element: (
-      <UserOrdersPage></UserOrdersPage>
-      // we will add Page later right now using component directly.
-    ),
+    element: <UserOrdersPage></UserOrdersPage>,
+  },
+  {
+    path: '/profile',
+    element: <UserProfilePage></UserProfilePage>,
+  },
+  {
+    path: '/logout',
+    element: <Logout></Logout>,
+  },
+  {
+    path: '/forgot-password',
+    element: <ForgotPasswordPage></ForgotPasswordPage>,
   },
   {
     path: '*',
-    element: (
-      <PageNotFound></PageNotFound>
-    ),
+    element: <PageNotFound></PageNotFound>,
   },
 ]);
 
 function App() {
-
   const dispatch = useDispatch();
   const user = useSelector(selectLoggedInUser);
 
-  useEffect(()=>{
-    if(user){
-      dispatch(fetchItemsByUserIdAsync(user.id))
+  useEffect(() => {
+    if (user) {
+      dispatch(fetchItemsByUserIdAsync(user.id));
+      dispatch(fetchLoggedInUserAsync(user.id));
     }
-  },[dispatch, user])
+  }, [dispatch, user]);
 
   return (
     <div className="App">
