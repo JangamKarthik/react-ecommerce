@@ -79,7 +79,7 @@ function Checkout() {
 
   return (
     <>
-      {!items.length && <Navigate to="/" replace={true}></Navigate>}
+      {!items.length && <Navigate to="/empty" replace={true}></Navigate>}
       {currentOrder && (
         <Navigate
           to={`/order-success/${currentOrder.id}`}

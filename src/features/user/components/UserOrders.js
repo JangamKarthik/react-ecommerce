@@ -5,6 +5,7 @@ import {
   selectUserInfo,
   selectUserOrders,
 } from '../userSlice';
+import { Navigate } from 'react-router-dom';
 
 export default function UserOrders() {
   const dispatch = useDispatch();
@@ -16,6 +17,8 @@ export default function UserOrders() {
   }, [dispatch, user]);
 
   return (
+    <>
+    {!orders.length && <Navigate to="/ordersempty" replace={true}></Navigate>}
     <div>
       {orders.map((order) => (
         <div>
@@ -112,5 +115,6 @@ export default function UserOrders() {
         </div>
       ))}
     </div>
+    </>
   );
 }
