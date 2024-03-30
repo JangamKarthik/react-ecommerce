@@ -7,7 +7,7 @@
       "price": 993,
       "discountPercentage": 12.96,
       "rating": 0,
-      "stock": 94,
+      "stock": 0,
       "brand": "Apple",
       "category": "smartphones",
       "thumbnail": "https://m.media-amazon.com/images/I/61CAYVr34QL._SX522_.jpg",
@@ -2549,7 +2549,7 @@
         "password": "1q2w3e4r5T@",
         "addresses": [
           {
-            "name": "Abhishek R",
+            "name": "test add",
             "email": "test@gmail.com",
             "phone": "1234567788",
             "street": "11th Main",
@@ -2558,7 +2558,7 @@
             "pinCode": "560034"
           },
           {
-            "name": "Abhishek R",
+            "name": "test add",
             "email": "test@gmail.com",
             "phone": "1234567788",
             "street": "11th Main",
@@ -2571,7 +2571,7 @@
       },
       "paymentMethod": "cash",
       "selectedAddress": {
-        "name": "Abhishek R",
+        "name": "test add",
         "email": "test@gmail.com",
         "phone": "1234567788",
         "street": "11th Main",
@@ -2612,7 +2612,7 @@
         "password": "1q2w3e4r5T@",
         "addresses": [
           {
-            "name": "Abhishek R",
+            "name": "test add",
             "email": "test@gmail.com",
             "phone": "1234567788",
             "street": "11th Main",
@@ -2621,7 +2621,7 @@
             "pinCode": "560034"
           },
           {
-            "name": "Abhishek R",
+            "name": "test add",
             "email": "test@gmail.com",
             "phone": "1234567788",
             "street": "11th Main",
@@ -2634,7 +2634,7 @@
       },
       "paymentMethod": "cash",
       "selectedAddress": {
-        "name": "Abhishek R",
+        "name": "test add",
         "email": "test@gmail.com",
         "phone": "1234567788",
         "street": "11th Main",
@@ -2746,7 +2746,7 @@
         "password": "1q2w3e4r5T@",
         "addresses": [
           {
-            "name": "Abhishek R",
+            "name": "test add",
             "email": "test@gmail.com",
             "phone": "1234567788",
             "street": "11th Main",
@@ -2755,7 +2755,7 @@
             "pinCode": "560034"
           },
           {
-            "name": "Abhishek R",
+            "name": "test add",
             "email": "test@gmail.com",
             "phone": "1234567788",
             "street": "11th Main",
@@ -2768,7 +2768,7 @@
       },
       "paymentMethod": "cash",
       "selectedAddress": {
-        "name": "Abhishek R",
+        "name": "test add",
         "email": "test@gmail.com",
         "phone": "1234567788",
         "street": "11th Main",
@@ -2895,7 +2895,7 @@
         "state": "Andhra Pradesh",
         "pinCode": "518301"
       },
-      "status": "cancelled"
+      "status": "delivered"
     },
     {
       "id": "7770",
@@ -2952,7 +2952,64 @@
         "state": "Andhra Pradesh",
         "pinCode": "518301"
       },
-      "status": "delivered"
+      "status": "dispatched"
+    },
+    {
+      "id": "d522",
+      "items": [
+        {
+          "id": "bab5",
+          "title": "iPhone 9",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 993,
+          "discountPercentage": 12.96,
+          "rating": 0,
+          "stock": 0,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://m.media-amazon.com/images/I/61CAYVr34QL._SX522_.jpg",
+          "images": [
+            "https://m.media-amazon.com/images/I/61CAYVr34QL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/61CAYVr34QL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/61wIVtrz54L._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/61CAYVr34QL._SX522_.jpg"
+          ],
+          "deleted": true,
+          "productId": "1",
+          "quantity": 1,
+          "user": "b9a2"
+        }
+      ],
+      "totalAmount": 864,
+      "totalItems": 1,
+      "user": {
+        "id": "b9a2",
+        "email": "KarthikJangam@gmail.com",
+        "password": "1q2w3e4r5T",
+        "addresses": [
+          {
+            "name": "Karthik Jangam",
+            "email": "KarthikJangam@gmail.com",
+            "phone": "8639055246",
+            "street": "21-405-44/1 kaparthi nagar ,behind rtc bus stand, adoni,518301,andhra pradesh",
+            "city": "adoni",
+            "state": "Andhra Pradesh",
+            "pinCode": "518301"
+          }
+        ],
+        "role": "user"
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Karthik Jangam",
+        "email": "KarthikJangam@gmail.com",
+        "phone": "8639055246",
+        "street": "21-405-44/1 kaparthi nagar ,behind rtc bus stand, adoni,518301,andhra pradesh",
+        "city": "adoni",
+        "state": "Andhra Pradesh",
+        "pinCode": "518301"
+      },
+      "status": "pending"
     }
   ]
 }
