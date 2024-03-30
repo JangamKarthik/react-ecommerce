@@ -24,8 +24,9 @@ import ProtectedAdmin from './features/auth/components/ProtectedAdmin';
 import AdminHome from './pages/AdminHome';
 import AdminProductDetailPage from './pages/AdminProductDetailPage';
 import AdminProductFormPage from './pages/AdminProductFormPage';
-import OrdersEmpty from './pages/OrdersEmpty';
+import AdminOrdersPage from './pages/AdminOrdersPage';
 import Empty from './pages/Empty';
+import OrdersEmpty from './pages/OrdersEmpty';
 const router = createBrowserRouter([
   {
     path: '/',
@@ -76,14 +77,6 @@ const router = createBrowserRouter([
     ),
   },
   {
-    path: '/empty',
-    element: <Empty></Empty>,
-  },
-  {
-    path: '/ordersempty',
-    element: <OrdersEmpty></OrdersEmpty>,
-  },
-  {
     path: '/admin/product-detail/:id',
     element: (
       <ProtectedAdmin>
@@ -96,6 +89,14 @@ const router = createBrowserRouter([
     element: (
       <ProtectedAdmin>
         <AdminProductFormPage></AdminProductFormPage>
+      </ProtectedAdmin>
+    ),
+  },
+  {
+    path: '/admin/orders',
+    element: (
+      <ProtectedAdmin>
+        <AdminOrdersPage></AdminOrdersPage>
       </ProtectedAdmin>
     ),
   },
@@ -130,6 +131,14 @@ const router = createBrowserRouter([
   {
     path: '*',
     element: <PageNotFound></PageNotFound>,
+  },
+  {
+    path: '/empty',
+    element: <Empty></Empty>,
+  },
+  {
+    path: '/ordersempty',
+    element: <OrdersEmpty></OrdersEmpty>,
   },
 ]);
 

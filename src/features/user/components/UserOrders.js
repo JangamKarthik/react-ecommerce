@@ -5,6 +5,7 @@ import {
   selectUserInfo,
   selectUserOrders,
 } from '../userSlice';
+import { discountedPrice } from '../../../app/constants';
 import { Navigate } from 'react-router-dom';
 
 export default function UserOrders() {
@@ -17,8 +18,7 @@ export default function UserOrders() {
   }, [dispatch, user]);
 
   return (
-    <>
-    {!orders.length && <Navigate to="/ordersempty" replace={true}></Navigate>}
+    <> {!orders.length && <Navigate to="/ordersempty" replace={true}></Navigate>}
     <div>
       {orders.map((order) => (
         <div>
@@ -49,7 +49,7 @@ export default function UserOrders() {
                               <h3>
                                 <a href={item.href}>{item.title}</a>
                               </h3>
-                              <p className="ml-4">${item.price}</p>
+                              <p className="ml-4">${discountedPrice(item)}</p>
                             </div>
                             <p className="mt-1 text-sm text-gray-500">
                               {item.brand}

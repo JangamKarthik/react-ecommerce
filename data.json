@@ -29,12 +29,12 @@
       "stock": 34,
       "brand": "Apple",
       "category": "smartphones",
-      "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+      "thumbnail": "https://m.media-amazon.com/images/I/71657TiFeHL._SX522_.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/2/1.jpg",
-        "https://i.dummyjson.com/data/products/2/2.jpg",
-        "https://i.dummyjson.com/data/products/2/3.jpg",
-        "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+        "https://m.media-amazon.com/images/I/71657TiFeHL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/51brdXeugJL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/712CBkmhLhL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/71657TiFeHL._SX522_.jpg"
       ]
     },
     {
@@ -2579,7 +2579,7 @@
         "state": "Karnataka",
         "pinCode": "560034"
       },
-      "status": "pending",
+      "status": "dispatched",
       "id": "1"
     },
     {
@@ -2895,7 +2895,7 @@
         "state": "Andhra Pradesh",
         "pinCode": "518301"
       },
-      "status": "pending"
+      "status": "cancelled"
     },
     {
       "id": "7770",
@@ -2952,7 +2952,7 @@
         "state": "Andhra Pradesh",
         "pinCode": "518301"
       },
-      "status": "pending"
+      "status": "delivered"
     }
   ]
 }
