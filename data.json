@@ -2,44 +2,44 @@
   "products": [
     {
       "id": "1",
-      "title": "iPhone 13",
+      "title": "iPhone 9",
       "description": "An apple mobile which is nothing like apple",
-      "price": 549,
+      "price": 993,
       "discountPercentage": 12.96,
-      "rating": 4.69,
+      "rating": 0,
       "stock": 94,
       "brand": "Apple",
       "category": "smartphones",
-      "thumbnail": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SX522_.jpg",
+      "thumbnail": "https://m.media-amazon.com/images/I/61CAYVr34QL._SX522_.jpg",
       "images": [
         "https://m.media-amazon.com/images/I/61CAYVr34QL._SX522_.jpg",
         "https://m.media-amazon.com/images/I/61CAYVr34QL._SX522_.jpg",
         "https://m.media-amazon.com/images/I/61wIVtrz54L._SX522_.jpg",
-        "https://m.media-amazon.com/images/I/71G44HUh7yL._SX522_.jpg",
-        "https://m.media-amazon.com/images/I/71G44HUh7yL._SX522_.jpg"
-      ]
+        "https://m.media-amazon.com/images/I/61CAYVr34QL._SX522_.jpg"
+      ],
+      "deleted": true
     },
     {
       "id": "2",
-      "title": "iPhone 15",
+      "title": "iPhone 13",
       "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
-      "price": 899,
+      "price": 1111,
       "discountPercentage": 17.94,
-      "rating": 4.44,
+      "rating": 0,
       "stock": 34,
       "brand": "Apple",
       "category": "smartphones",
-      "thumbnail": "https://m.media-amazon.com/images/I/71657TiFeHL._SX522_.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/71657TiFeHL._SX522_.jpg",
-        "https://m.media-amazon.com/images/I/51brdXeugJL._SX522_.jpg",
-        "https://m.media-amazon.com/images/I/712CBkmhLhL._SX522_.jpg",
-        "https://m.media-amazon.com/images/I/61f4dTush1L._SX522_.jpg"
+        "https://i.dummyjson.com/data/products/2/1.jpg",
+        "https://i.dummyjson.com/data/products/2/2.jpg",
+        "https://i.dummyjson.com/data/products/2/3.jpg",
+        "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
       ]
     },
     {
       "id": "3",
-      "title": "Samsung Galaxy S24 Plus",
+      "title": "Samsung Universe 9",
       "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
       "price": 1249,
       "discountPercentage": 15.46,
@@ -47,30 +47,26 @@
       "stock": 36,
       "brand": "Samsung",
       "category": "smartphones",
-      "thumbnail": "https://m.media-amazon.com/images/I/71pi4Bhc2hL._SX569_.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/71pi4Bhc2hL._SX569_.jpg",
-        "https://m.media-amazon.com/images/I/71BIup-4aBL._SX569_.jpg",
-        "https://m.media-amazon.com/images/I/71fWgk6gJaL._SX569_.jpg",
-        "https://m.media-amazon.com/images/I/61A371eDIoL._SX569_.jpg"
+        "https://i.dummyjson.com/data/products/3/1.jpg"
       ]
     },
     {
       "id": "4",
-      "title": "OPPO Find X2",
+      "title": "OPPOF19",
       "description": "OPPO F19 is officially announced on April 2021.",
-      "price": 280,
+      "price": 300,
       "discountPercentage": 17.91,
-      "rating": 4.3,
+      "rating": 0,
       "stock": 123,
       "brand": "OPPO",
       "category": "smartphones",
-      "thumbnail": "https://m.media-amazon.com/images/I/91-2d0XeliL._SX569_.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/91-2d0XeliL._SX569_.jpg",
-        "https://m.media-amazon.com/images/I/81PbRgDh+PL._SX569_.jpg",
-        "https://m.media-amazon.com/images/I/81AnAIYd0jL._SX569_.jpg",
-        "https://m.media-amazon.com/images/I/61mX6GGmRtL._SX679_.jpg",
+        "https://i.dummyjson.com/data/products/4/1.jpg",
+        "https://i.dummyjson.com/data/products/4/2.jpg",
+        "https://i.dummyjson.com/data/products/4/3.jpg",
         "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
       ]
     },
@@ -84,35 +80,34 @@
       "stock": 32,
       "brand": "Huawei",
       "category": "smartphones",
-      "thumbnail": "https://m.media-amazon.com/images/I/61jJeZBliWL._AC_SX466_.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/4162OhKmMlL.jpg",
-        "https://m.media-amazon.com/images/I/41oUypqE9hL.jpg",
-        "https://m.media-amazon.com/images/I/31Tcjm95VOL.jpg",
-        "https://m.media-amazon.com/images/I/61jJeZBliWL._AC_SX466_.jpg"
+        "https://i.dummyjson.com/data/products/5/1.jpg",
+        "https://i.dummyjson.com/data/products/5/2.jpg",
+        "https://i.dummyjson.com/data/products/5/3.jpg"
       ]
     },
     {
       "id": "6",
       "title": "MacBook Pro",
       "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
-      "price": 1749,
+      "price": 1999,
       "discountPercentage": 11.02,
-      "rating": 4.57,
+      "rating": 0,
       "stock": 83,
       "brand": "Apple",
       "category": "laptops",
-      "thumbnail": "https://m.media-amazon.com/images/I/314kVw1vC6L._SY445_SX342_QL70_FMwebp_.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
       "images": [
-        "https://m.media-amazon.com/images/I/314kVw1vC6L._SY445_SX342_QL70_FMwebp_.jpg",
-        "https://m.media-amazon.com/images/I/61x8BQ8-5wL._SX522_.jpg",
-        "https://m.media-amazon.com/images/I/71JsSoIns1L._SX522_.jpg",
-        "https://m.media-amazon.com/images/I/61384664ZVL._SX522_.jpg"
+        "https://i.dummyjson.com/data/products/6/1.png",
+        "https://i.dummyjson.com/data/products/6/2.jpg",
+        "https://i.dummyjson.com/data/products/6/3.png",
+        "https://i.dummyjson.com/data/products/6/thumbnail.png"
       ]
     },
     {
       "id": "7",
-      "title": "Samsung Galaxy Book4 Pro",
+      "title": "Samsung Galaxy Book",
       "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
       "price": 1499,
       "discountPercentage": 4.15,
@@ -120,17 +115,17 @@
       "stock": 50,
       "brand": "Samsung",
       "category": "laptops",
-      "thumbnail": "https://m.media-amazon.com/images/I/710dnv-+HTL._SY450_.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/710dnv-+HTL._SY450_.jpg",
-        "https://m.media-amazon.com/images/I/61BwBTSiqRL._SY450_.jpg",
-        "https://m.media-amazon.com/images/I/61+NBhTiFOL._SY450_.jpg",
-        "https://m.media-amazon.com/images/I/51oHOvel8jL._SY450_.jpg"
+        "https://i.dummyjson.com/data/products/7/1.jpg",
+        "https://i.dummyjson.com/data/products/7/2.jpg",
+        "https://i.dummyjson.com/data/products/7/3.jpg",
+        "https://i.dummyjson.com/data/products/7/thumbnail.jpg"
       ]
     },
     {
       "id": "8",
-      "title": "Microsoft Surface Laptop GO2",
+      "title": "Microsoft Surface Laptop 4",
       "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
       "price": 1499,
       "discountPercentage": 10.23,
@@ -138,12 +133,13 @@
       "stock": 68,
       "brand": "Microsoft Surface",
       "category": "laptops",
-      "thumbnail": "https://m.media-amazon.com/images/I/41JG435-DVL._SY355_.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/41JG435-DVL._SY355_.jpg",
-        "https://m.media-amazon.com/images/I/410upNOUw5L._SY355_.jpg",
-        "https://m.media-amazon.com/images/I/3176pxvstSL._SY355_.jpg",
-        "https://m.media-amazon.com/images/I/51dsop2RqHL._SY355_.jpg"
+        "https://i.dummyjson.com/data/products/8/1.jpg",
+        "https://i.dummyjson.com/data/products/8/2.jpg",
+        "https://i.dummyjson.com/data/products/8/3.jpg",
+        "https://i.dummyjson.com/data/products/8/4.jpg",
+        "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
       ]
     },
     {
@@ -156,12 +152,13 @@
       "stock": 96,
       "brand": "Infinix",
       "category": "laptops",
-      "thumbnail": "https://m.media-amazon.com/images/I/41fTHWSYY7L.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/41fTHWSYY7L.jpg",
-        "https://m.media-amazon.com/images/I/21v8xsAB7ML.jpg",
-        "https://m.media-amazon.com/images/I/21CuxNFhTXL.jpg",
-        "https://m.media-amazon.com/images/I/31xMsk1w8KL.jpg"
+        "https://i.dummyjson.com/data/products/9/1.jpg",
+        "https://i.dummyjson.com/data/products/9/2.png",
+        "https://i.dummyjson.com/data/products/9/3.png",
+        "https://i.dummyjson.com/data/products/9/4.jpg",
+        "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
       ]
     },
     {
@@ -174,17 +171,17 @@
       "stock": 89,
       "brand": "HP Pavilion",
       "category": "laptops",
-      "thumbnail": "https://m.media-amazon.com/images/I/61KR6VS3wsL._SY450_.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
       "images": [
-        "https://m.media-amazon.com/images/I/61KR6VS3wsL._SY450_.jpg",
-        "https://m.media-amazon.com/images/I/715-e4cm+TL._SY450_.jpg",
-        "https://m.media-amazon.com/images/I/51dmYNjCeWL._SY450_.jpg",
-        "https://m.media-amazon.com/images/I/61-z7Jd8jXL._SY450_.jpg"
+        "https://i.dummyjson.com/data/products/10/1.jpg",
+        "https://i.dummyjson.com/data/products/10/2.jpg",
+        "https://i.dummyjson.com/data/products/10/3.jpg",
+        "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
       ]
     },
     {
       "id": "11",
-      "title": "Giorgio Armani Acqua Di Giãƒ Absolu Eau De Parfum Spray",
+      "title": "perfume Oil",
       "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
       "price": 13,
       "discountPercentage": 8.4,
@@ -192,12 +189,12 @@
       "stock": 65,
       "brand": "Impression of Acqua Di Gio",
       "category": "fragrances",
-      "thumbnail": "https://m.media-amazon.com/images/I/61DyBB45+IL._SX355_.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/11/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/61DyBB45+IL._SX355_.jpg",
-        "https://m.media-amazon.com/images/I/61ygEfBi6iL._SY606_.jpg",
-        "https://m.media-amazon.com/images/I/41T6YaKGwmL._SY355_.jpg",
-        "https://m.media-amazon.com/images/I/71W4kn3Jv-L._SY355_.jpg"
+        "https://i.dummyjson.com/data/products/11/1.jpg",
+        "https://i.dummyjson.com/data/products/11/2.jpg",
+        "https://i.dummyjson.com/data/products/11/3.jpg",
+        "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
       ]
     },
     {
@@ -210,12 +207,13 @@
       "stock": 52,
       "brand": "Royal_Mirage",
       "category": "fragrances",
-      "thumbnail": "https://m.media-amazon.com/images/I/91VwQCXXEIL._SY450_.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/12/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/91VwQCXXEIL._SY450_.jpg",
-        "https://m.media-amazon.com/images/I/91VwQCXXEIL._SY450_.jpg",
-        "https://m.media-amazon.com/images/I/91VwQCXXEIL._SY450_.jpg",
-        "https://m.media-amazon.com/images/I/91VwQCXXEIL._SY450_.jpg"
+        "https://i.dummyjson.com/data/products/12/1.jpg",
+        "https://i.dummyjson.com/data/products/12/2.jpg",
+        "https://i.dummyjson.com/data/products/12/3.png",
+        "https://i.dummyjson.com/data/products/12/4.jpg",
+        "https://i.dummyjson.com/data/products/12/thumbnail.jpg"
       ]
     },
     {
@@ -228,12 +226,13 @@
       "stock": 61,
       "brand": "Fog Scent Xpressio",
       "category": "fragrances",
-      "thumbnail": "https://m.media-amazon.com/images/I/41nbIKDFPdL._SX300_SY300_QL70_FMwebp_.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.webp",
       "images": [
-        "https://m.media-amazon.com/images/I/41nbIKDFPdL._SX300_SY300_QL70_FMwebp_.jpg",
-        "https://m.media-amazon.com/images/I/61dI9GZqaQL._SY355_.jpg",
-        "https://m.media-amazon.com/images/I/61UNnjc-tcL._SY355_.jpg",
-        "https://m.media-amazon.com/images/I/613kYctHchL._SY355_.jpg"
+        "https://i.dummyjson.com/data/products/13/1.jpg",
+        "https://i.dummyjson.com/data/products/13/2.png",
+        "https://i.dummyjson.com/data/products/13/3.jpg",
+        "https://i.dummyjson.com/data/products/13/4.jpg",
+        "https://i.dummyjson.com/data/products/13/thumbnail.webp"
       ]
     },
     {
@@ -246,12 +245,12 @@
       "stock": 114,
       "brand": "Al Munakh",
       "category": "fragrances",
-      "thumbnail": "https://m.media-amazon.com/images/I/51q9i7VesTL._SY355_.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/14/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/51q9i7VesTL._SY355_.jpg",
-        "https://m.media-amazon.com/images/I/41nhVSrqk8L._SY355_.jpg",
-        "https://m.media-amazon.com/images/I/41x-Reg9quL._SY355_.jpg",
-        "https://m.media-amazon.com/images/I/512lWW1AiRL._SY355_.jpg"
+        "https://i.dummyjson.com/data/products/14/1.jpg",
+        "https://i.dummyjson.com/data/products/14/2.jpg",
+        "https://i.dummyjson.com/data/products/14/3.jpg",
+        "https://i.dummyjson.com/data/products/14/thumbnail.jpg"
       ]
     },
     {
@@ -264,12 +263,13 @@
       "stock": 105,
       "brand": "Lord - Al-Rehab",
       "category": "fragrances",
-      "thumbnail": "https://m.media-amazon.com/images/I/51wDjQ+Vo3L._SY300_SX300_.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/15/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/51wDjQ+Vo3L._SY300_SX300_.jpg",
-        "https://m.media-amazon.com/images/I/61McCSEFsrL._SY355_.jpg",
-        "https://m.media-amazon.com/images/I/61x1bN+LoNL._SY355_.jpg",
-        "https://m.media-amazon.com/images/I/71Ypct8vZEL._SY355_.jpg"
+        "https://i.dummyjson.com/data/products/15/1.jpg",
+        "https://i.dummyjson.com/data/products/15/2.jpg",
+        "https://i.dummyjson.com/data/products/15/3.jpg",
+        "https://i.dummyjson.com/data/products/15/4.jpg",
+        "https://i.dummyjson.com/data/products/15/thumbnail.jpg"
       ]
     },
     {
@@ -282,12 +282,13 @@
       "stock": 110,
       "brand": "L'Oreal Paris",
       "category": "skincare",
-      "thumbnail": "https://m.media-amazon.com/images/I/51dyKxcQAaL._SY355_.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/16/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/51dyKxcQAaL._SY355_.jpg",
-        "https://m.media-amazon.com/images/I/71cwEE3YLAL._SY355_.jpg",
-        "https://m.media-amazon.com/images/I/61IxzxUvLJL._SY355_.jpg",
-        "https://m.media-amazon.com/images/I/61gDkhp2Y1L._SY355_.jpg"
+        "https://i.dummyjson.com/data/products/16/1.png",
+        "https://i.dummyjson.com/data/products/16/2.webp",
+        "https://i.dummyjson.com/data/products/16/3.jpg",
+        "https://i.dummyjson.com/data/products/16/4.jpg",
+        "https://i.dummyjson.com/data/products/16/thumbnail.jpg"
       ]
     },
     {
@@ -300,12 +301,12 @@
       "stock": 78,
       "brand": "Hemani Tea",
       "category": "skincare",
-      "thumbnail": "https://m.media-amazon.com/images/I/61c692E3WAL._SY879_.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/17/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/61c692E3WAL._SY879_.jpg",
-        "https://m.media-amazon.com/images/I/81MgS-hkKdL._SY355_.jpg",
-        "https://m.media-amazon.com/images/I/81pCzZDqaHL._SY355_.jpg",
-        "https://m.media-amazon.com/images/I/817J3-IyW+L._SY355_.jpg"
+        "https://i.dummyjson.com/data/products/17/1.jpg",
+        "https://i.dummyjson.com/data/products/17/2.jpg",
+        "https://i.dummyjson.com/data/products/17/3.jpg",
+        "https://i.dummyjson.com/data/products/17/thumbnail.jpg"
       ]
     },
     {
@@ -318,12 +319,13 @@
       "stock": 88,
       "brand": "Dermive",
       "category": "skincare",
-      "thumbnail": "https://m.media-amazon.com/images/I/51Sy8ktByyL._SY450_.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/18/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/51Sy8ktByyL._SY450_.jpg",
-        "https://m.media-amazon.com/images/I/617qOCFLTGL._SY450_.jpg",
-        "https://m.media-amazon.com/images/I/61GO8iq7WpL._SY450_.jpg",
-        "https://m.media-amazon.com/images/I/71Euh-7mQeL._SX450_.jpg"
+        "https://i.dummyjson.com/data/products/18/1.jpg",
+        "https://i.dummyjson.com/data/products/18/2.jpg",
+        "https://i.dummyjson.com/data/products/18/3.jpg",
+        "https://i.dummyjson.com/data/products/18/4.jpg",
+        "https://i.dummyjson.com/data/products/18/thumbnail.jpg"
       ]
     },
     {
@@ -336,12 +338,12 @@
       "stock": 54,
       "brand": "ROREC White Rice",
       "category": "skincare",
-      "thumbnail": "https://m.media-amazon.com/images/I/510XARlsJ1L._SY355_.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/19/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/510XARlsJ1L._SY355_.jpg",
-        "https://m.media-amazon.com/images/I/51aDUP5vBcL._SY355_.jpg",
-        "https://m.media-amazon.com/images/I/51jU-qmVHgL._SY355_.jpg",
-        "https://m.media-amazon.com/images/I/61XsvgRaWJL._SY355_.jpg"
+        "https://i.dummyjson.com/data/products/19/1.jpg",
+        "https://i.dummyjson.com/data/products/19/2.jpg",
+        "https://i.dummyjson.com/data/products/19/3.png",
+        "https://i.dummyjson.com/data/products/19/thumbnail.jpg"
       ]
     },
     {
@@ -354,12 +356,13 @@
       "stock": 140,
       "brand": "Fair & Clear",
       "category": "skincare",
-      "thumbnail": "https://m.media-amazon.com/images/I/41IiPUF4gcL._SX300_SY300_QL70_FMwebp_.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/20/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/41IiPUF4gcL._SX300_SY300_QL70_FMwebp_.jpg",
-        "https://m.media-amazon.com/images/I/61DeIVOuFwL._SY355_.jpg",
-        "https://m.media-amazon.com/images/I/51t60qLxb5L._SY355_.jpg",
-        "https://m.media-amazon.com/images/I/61z+ormfQZL._SY355_.jpg"
+        "https://i.dummyjson.com/data/products/20/1.jpg",
+        "https://i.dummyjson.com/data/products/20/2.jpg",
+        "https://i.dummyjson.com/data/products/20/3.jpg",
+        "https://i.dummyjson.com/data/products/20/4.jpg",
+        "https://i.dummyjson.com/data/products/20/thumbnail.jpg"
       ]
     },
     {
@@ -372,12 +375,11 @@
       "stock": 133,
       "brand": "Saaf & Khaas",
       "category": "groceries",
-      "thumbnail": "https://m.media-amazon.com/images/I/61g7Xzt5yiL._SX522_.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/21/thumbnail.png",
       "images": [
-        "https://m.media-amazon.com/images/I/61g7Xzt5yiL._SX522_.jpg",
-        "https://m.media-amazon.com/images/I/61HTG01Jr-L._SX522_.jpg",
-        "https://m.media-amazon.com/images/I/719FyQYFH3L._SX522_.jpg",
-        "https://m.media-amazon.com/images/I/61KvsVO+lWL._SX522_.jpg"
+        "https://i.dummyjson.com/data/products/21/1.png",
+        "https://i.dummyjson.com/data/products/21/2.jpg",
+        "https://i.dummyjson.com/data/products/21/3.jpg"
       ]
     },
     {
@@ -390,17 +392,16 @@
       "stock": 146,
       "brand": "Bake Parlor Big",
       "category": "groceries",
-      "thumbnail": "https://m.media-amazon.com/images/I/71T4FyU8inL._SX522_.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/22/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/71T4FyU8inL._SX522_.jpg",
-        "https://m.media-amazon.com/images/I/81r5aQovzuL._SX522_.jpg",
-        "https://m.media-amazon.com/images/I/81vB+pQ2ktL._SX522_.jpg",
-        "https://m.media-amazon.com/images/I/81qs-EiuyyL._SX522_.jpg"
+        "https://i.dummyjson.com/data/products/22/1.jpg",
+        "https://i.dummyjson.com/data/products/22/2.jpg",
+        "https://i.dummyjson.com/data/products/22/3.jpg"
       ]
     },
     {
       "id": "23",
-      "title": "Orange Essence Food Flavour",
+      "title": "Orange Essence Food Flavou",
       "description": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
       "price": 14,
       "discountPercentage": 8.04,
@@ -408,48 +409,51 @@
       "stock": 26,
       "brand": "Baking Food Items",
       "category": "groceries",
-      "thumbnail": "https://m.media-amazon.com/images/I/71e2JR1uUoL._SY550_.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/23/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/71e2JR1uUoL._SY550_.jpg",
-        "https://m.media-amazon.com/images/I/71qjjMxJCjL._SY550_.jpg",
-        "https://m.media-amazon.com/images/I/71yw1ow5mXL._SX522_.jpg",
-        "https://m.media-amazon.com/images/I/61L9B-EDopL._SX522_.jpg"
+        "https://i.dummyjson.com/data/products/23/1.jpg",
+        "https://i.dummyjson.com/data/products/23/2.jpg",
+        "https://i.dummyjson.com/data/products/23/3.jpg",
+        "https://i.dummyjson.com/data/products/23/4.jpg",
+        "https://i.dummyjson.com/data/products/23/thumbnail.jpg"
       ]
     },
     {
       "id": "24",
       "title": "cereals muesli fruit nuts",
-      "description": "original Kelloggs cereal muesli 250gm box pack original Kelloggs cereals muesli fruit nuts flakes breakfast cereal break fast Kelloggscereals cerels cerel foji fouji",
+      "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
       "price": 46,
       "discountPercentage": 16.8,
       "rating": 4.94,
       "stock": 113,
-      "brand": "Kelloggs",
+      "brand": "fauji",
       "category": "groceries",
-      "thumbnail": "https://m.media-amazon.com/images/I/61L9B-EDopL._SX522_.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/24/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/61L9B-EDopL._SX522_.jpg",
-        "https://m.media-amazon.com/images/I/617gDycO7pL._SX522_.jpg",
-        "https://m.media-amazon.com/images/I/51+srWgcr0L._SX522_.jpg",
-        "https://m.media-amazon.com/images/I/71Wc4UtUxjL._SX522_.jpg"
+        "https://i.dummyjson.com/data/products/24/1.jpg",
+        "https://i.dummyjson.com/data/products/24/2.jpg",
+        "https://i.dummyjson.com/data/products/24/3.jpg",
+        "https://i.dummyjson.com/data/products/24/4.jpg",
+        "https://i.dummyjson.com/data/products/24/thumbnail.jpg"
       ]
     },
     {
       "id": "25",
       "title": "Gulab Powder 50 Gram",
-      "description": "STAMiO Flower Powder Gulab Powder 50 Gram • Treats Wounds",
+      "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
       "price": 70,
       "discountPercentage": 13.58,
       "rating": 4.87,
       "stock": 47,
-      "brand": "STAMiO",
+      "brand": "Dry Rose",
       "category": "groceries",
-      "thumbnail": "https://m.media-amazon.com/images/I/510Yw8gdw8L._SY355_.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/25/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/510Yw8gdw8L._SY355_.jpg",
-        "https://m.media-amazon.com/images/I/51+7aakvKyL._SY355_.jpg",
-        "https://m.media-amazon.com/images/I/719rUKki-IL._SY355_.jpg",
-        "https://m.media-amazon.com/images/I/715IlPoEgxL._SY355_.jpg"
+        "https://i.dummyjson.com/data/products/25/1.png",
+        "https://i.dummyjson.com/data/products/25/2.jpg",
+        "https://i.dummyjson.com/data/products/25/3.png",
+        "https://i.dummyjson.com/data/products/25/4.jpg",
+        "https://i.dummyjson.com/data/products/25/thumbnail.jpg"
       ]
     },
     {
@@ -1833,6 +1837,23 @@
         "https://i.dummyjson.com/data/products/100/3.jpg",
         "https://i.dummyjson.com/data/products/100/thumbnail.jpg"
       ]
+    },
+    {
+      "title": "Mac Book Air ",
+      "description": "Mac Book Air ",
+      "brand": "Apple",
+      "category": "laptops",
+      "price": 1111,
+      "discountPercentage": 11,
+      "stock": 22,
+      "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+      "images": [
+        "https://i.dummyjson.com/data/products/6/thumbnail.png",
+        "https://i.dummyjson.com/data/products/6/thumbnail.png",
+        "https://i.dummyjson.com/data/products/6/thumbnail.png",
+        "https://i.dummyjson.com/data/products/6/thumbnail.png"
+      ],
+      "id": "101"
     }
   ],
   "brands": [
@@ -1840,469 +1861,469 @@
       "value": "Apple",
       "label": "Apple",
       "checked": false,
-      "id": "9142"
+      "id": "e404"
     },
     {
       "value": "Samsung",
       "label": "Samsung",
       "checked": false,
-      "id": "3f60"
+      "id": "4ec2"
     },
     {
       "value": "OPPO",
       "label": "OPPO",
       "checked": false,
-      "id": "0909"
+      "id": "ccdf"
     },
     {
       "value": "Huawei",
       "label": "Huawei",
       "checked": false,
-      "id": "4583"
+      "id": "04d8"
     },
     {
       "value": "Microsoft Surface",
       "label": "Microsoft Surface",
       "checked": false,
-      "id": "e3e1"
+      "id": "2b2e"
     },
     {
       "value": "Infinix",
       "label": "Infinix",
       "checked": false,
-      "id": "5c37"
+      "id": "4bfe"
     },
     {
       "value": "HP Pavilion",
       "label": "HP Pavilion",
       "checked": false,
-      "id": "a991"
+      "id": "c0c1"
     },
     {
       "value": "Impression of Acqua Di Gio",
       "label": "Impression of Acqua Di Gio",
       "checked": false,
-      "id": "1a5c"
+      "id": "b9d7"
     },
     {
       "value": "Royal_Mirage",
       "label": "Royal_Mirage",
       "checked": false,
-      "id": "0600"
+      "id": "561b"
     },
     {
       "value": "Fog Scent Xpressio",
       "label": "Fog Scent Xpressio",
       "checked": false,
-      "id": "4876"
+      "id": "4283"
     },
     {
       "value": "Al Munakh",
       "label": "Al Munakh",
       "checked": false,
-      "id": "b7a9"
+      "id": "a041"
     },
     {
       "value": "Lord - Al-Rehab",
       "label": "Lord   Al Rehab",
       "checked": false,
-      "id": "6c43"
+      "id": "7314"
     },
     {
       "value": "L'Oreal Paris",
       "label": "L'Oreal Paris",
       "checked": false,
-      "id": "9f59"
+      "id": "06ac"
     },
     {
       "value": "Hemani Tea",
       "label": "Hemani Tea",
       "checked": false,
-      "id": "d60f"
+      "id": "a369"
     },
     {
       "value": "Dermive",
       "label": "Dermive",
       "checked": false,
-      "id": "4fec"
+      "id": "4b69"
     },
     {
       "value": "ROREC White Rice",
       "label": "ROREC White Rice",
       "checked": false,
-      "id": "a418"
+      "id": "d82d"
     },
     {
       "value": "Fair & Clear",
       "label": "Fair & Clear",
       "checked": false,
-      "id": "d20b"
+      "id": "df87"
     },
     {
       "value": "Saaf & Khaas",
       "label": "Saaf & Khaas",
       "checked": false,
-      "id": "1c9f"
+      "id": "6d17"
     },
     {
       "value": "Bake Parlor Big",
       "label": "Bake Parlor Big",
       "checked": false,
-      "id": "03e5"
+      "id": "8998"
     },
     {
       "value": "Baking Food Items",
       "label": "Baking Food Items",
       "checked": false,
-      "id": "b828"
+      "id": "996c"
     },
     {
-      "value": "Kelloggs",
-      "label": "Kelloggs",
+      "value": "fauji",
+      "label": "fauji",
       "checked": false,
-      "id": "cdb5"
+      "id": "eef8"
     },
     {
-      "value": "STAMiO",
-      "label": "STAMiO",
+      "value": "Dry Rose",
+      "label": "Dry Rose",
       "checked": false,
-      "id": "f4b4"
+      "id": "b27e"
     },
     {
       "value": "Boho Decor",
       "label": "Boho Decor",
       "checked": false,
-      "id": "02a8"
+      "id": "067d"
     },
     {
       "value": "Flying Wooden",
       "label": "Flying Wooden",
       "checked": false,
-      "id": "77fe"
+      "id": "0192"
     },
     {
       "value": "LED Lights",
       "label": "LED Lights",
       "checked": false,
-      "id": "051c"
+      "id": "1a8e"
     },
     {
       "value": "luxury palace",
       "label": "luxury palace",
       "checked": false,
-      "id": "fa87"
+      "id": "4d2d"
     },
     {
       "value": "Golden",
       "label": "Golden",
       "checked": false,
-      "id": "f63a"
+      "id": "601f"
     },
     {
       "value": "Furniture Bed Set",
       "label": "Furniture Bed Set",
       "checked": false,
-      "id": "a991"
+      "id": "2caf"
     },
     {
       "value": "Ratttan Outdoor",
       "label": "Ratttan Outdoor",
       "checked": false,
-      "id": "d306"
+      "id": "8eaf"
     },
     {
       "value": "Kitchen Shelf",
       "label": "Kitchen Shelf",
       "checked": false,
-      "id": "0ee4"
+      "id": "7d3d"
     },
     {
       "value": "Multi Purpose",
       "label": "Multi Purpose",
       "checked": false,
-      "id": "0893"
+      "id": "adeb"
     },
     {
       "value": "AmnaMart",
       "label": "AmnaMart",
       "checked": false,
-      "id": "4798"
+      "id": "1f01"
     },
     {
       "value": "Professional Wear",
       "label": "Professional Wear",
       "checked": false,
-      "id": "2d30"
+      "id": "5601"
     },
     {
       "value": "Soft Cotton",
       "label": "Soft Cotton",
       "checked": false,
-      "id": "6c19"
+      "id": "32ae"
     },
     {
       "value": "Top Sweater",
       "label": "Top Sweater",
       "checked": false,
-      "id": "ee0a"
+      "id": "224c"
     },
     {
       "value": "RED MICKY MOUSE..",
       "label": "RED MICKY MOUSE..",
       "checked": false,
-      "id": "88a1"
+      "id": "cde1"
     },
     {
       "value": "Digital Printed",
       "label": "Digital Printed",
       "checked": false,
-      "id": "d8ab"
+      "id": "1d8d"
     },
     {
       "value": "Ghazi Fabric",
       "label": "Ghazi Fabric",
       "checked": false,
-      "id": "ad41"
+      "id": "3ae1"
     },
     {
       "value": "IELGY",
       "label": "IELGY",
       "checked": false,
-      "id": "f7cb"
+      "id": "5520"
     },
     {
       "value": "IELGY fashion",
       "label": "IELGY fashion",
       "checked": false,
-      "id": "dd3b"
+      "id": "5d82"
     },
     {
       "value": "Synthetic Leather",
       "label": "Synthetic Leather",
       "checked": false,
-      "id": "077f"
+      "id": "5952"
     },
     {
       "value": "Sandals Flip Flops",
       "label": "Sandals Flip Flops",
       "checked": false,
-      "id": "e6cd"
+      "id": "e105"
     },
     {
       "value": "Maasai Sandals",
       "label": "Maasai Sandals",
       "checked": false,
-      "id": "a391"
+      "id": "6ab4"
     },
     {
       "value": "Arrivals Genuine",
       "label": "Arrivals Genuine",
       "checked": false,
-      "id": "390e"
+      "id": "7032"
     },
     {
       "value": "Vintage Apparel",
       "label": "Vintage Apparel",
       "checked": false,
-      "id": "a4dd"
+      "id": "052e"
     },
     {
       "value": "FREE FIRE",
       "label": "FREE FIRE",
       "checked": false,
-      "id": "f4c0"
+      "id": "d505"
     },
     {
       "value": "The Warehouse",
       "label": "The Warehouse",
       "checked": false,
-      "id": "0b5e"
+      "id": "0920"
     },
     {
       "value": "Sneakers",
       "label": "Sneakers",
       "checked": false,
-      "id": "74c6"
+      "id": "0b23"
     },
     {
       "value": "Rubber",
       "label": "Rubber",
       "checked": false,
-      "id": "5361"
+      "id": "458b"
     },
     {
       "value": "Naviforce",
       "label": "Naviforce",
       "checked": false,
-      "id": "1dc2"
+      "id": "f25f"
     },
     {
       "value": "SKMEI 9117",
       "label": "SKMEI 9117",
       "checked": false,
-      "id": "45e0"
+      "id": "fd7a"
     },
     {
       "value": "Strap Skeleton",
       "label": "Strap Skeleton",
       "checked": false,
-      "id": "4d16"
+      "id": "ac62"
     },
     {
       "value": "Stainless",
       "label": "Stainless",
       "checked": false,
-      "id": "9a5a"
+      "id": "9b53"
     },
     {
       "value": "Eastern Watches",
       "label": "Eastern Watches",
       "checked": false,
-      "id": "20b0"
+      "id": "0e39"
     },
     {
       "value": "Luxury Digital",
       "label": "Luxury Digital",
       "checked": false,
-      "id": "e504"
+      "id": "b378"
     },
     {
       "value": "Watch Pearls",
       "label": "Watch Pearls",
       "checked": false,
-      "id": "41c7"
+      "id": "2ea2"
     },
     {
       "value": "Bracelet",
       "label": "Bracelet",
       "checked": false,
-      "id": "1f1c"
+      "id": "1a78"
     },
     {
       "value": "LouisWill",
       "label": "LouisWill",
       "checked": false,
-      "id": "1b40"
+      "id": "bbef"
     },
     {
       "value": "Copenhagen Luxe",
       "label": "Copenhagen Luxe",
       "checked": false,
-      "id": "829e"
+      "id": "68c8"
     },
     {
       "value": "Steal Frame",
       "label": "Steal Frame",
       "checked": false,
-      "id": "537a"
+      "id": "f9d6"
     },
     {
       "value": "Darojay",
       "label": "Darojay",
       "checked": false,
-      "id": "d189"
+      "id": "ea51"
     },
     {
       "value": "Fashion Jewellery",
       "label": "Fashion Jewellery",
       "checked": false,
-      "id": "3d0d"
+      "id": "b1c0"
     },
     {
       "value": "Cuff Butterfly",
       "label": "Cuff Butterfly",
       "checked": false,
-      "id": "4f0f"
+      "id": "f33f"
     },
     {
       "value": "Designer Sun Glasses",
       "label": "Designer Sun Glasses",
       "checked": false,
-      "id": "d5b5"
+      "id": "43b9"
     },
     {
       "value": "mastar watch",
       "label": "mastar watch",
       "checked": false,
-      "id": "16f2"
+      "id": "ffb7"
     },
     {
       "value": "Car Aux",
       "label": "Car Aux",
       "checked": false,
-      "id": "4e5a"
+      "id": "3fa4"
     },
     {
       "value": "W1209 DC12V",
       "label": "W1209 DC12V",
       "checked": false,
-      "id": "ee99"
+      "id": "e71a"
     },
     {
       "value": "TC Reusable",
       "label": "TC Reusable",
       "checked": false,
-      "id": "4e2e"
+      "id": "af03"
     },
     {
       "value": "Neon LED Light",
       "label": "Neon LED Light",
       "checked": false,
-      "id": "f2e8"
+      "id": "2579"
     },
     {
       "value": "METRO 70cc Motorcycle - MR70",
       "label": "METRO 70cc Motorcycle   MR70",
       "checked": false,
-      "id": "b88a"
+      "id": "d18e"
     },
     {
       "value": "BRAVE BULL",
       "label": "BRAVE BULL",
       "checked": false,
-      "id": "2f58"
+      "id": "cff7"
     },
     {
       "value": "shock absorber",
       "label": "shock absorber",
       "checked": false,
-      "id": "d5ff"
+      "id": "abca"
     },
     {
       "value": "JIEPOLLY",
       "label": "JIEPOLLY",
       "checked": false,
-      "id": "186d"
+      "id": "40d9"
     },
     {
       "value": "Xiangle",
       "label": "Xiangle",
       "checked": false,
-      "id": "8c45"
+      "id": "1889"
     },
     {
       "value": "lightingbrilliance",
       "label": "lightingbrilliance",
       "checked": false,
-      "id": "7894"
+      "id": "3abe"
     },
     {
       "value": "Ifei Home",
       "label": "Ifei Home",
       "checked": false,
-      "id": "12b8"
+      "id": "90ca"
     },
     {
       "value": "DADAWU",
       "label": "DADAWU",
       "checked": false,
-      "id": "7865"
+      "id": "7cc1"
     },
     {
       "value": "YIOSI",
       "label": "YIOSI",
       "checked": false,
-      "id": "5a56"
+      "id": "b7eb"
     }
   ],
   "categories": [
@@ -2310,133 +2331,628 @@
       "value": "smartphones",
       "label": "smartphones",
       "checked": false,
-      "id": "d349"
+      "id": "46f1"
     },
     {
       "value": "laptops",
       "label": "laptops",
       "checked": false,
-      "id": "7db5"
+      "id": "a7b1"
     },
     {
       "value": "fragrances",
       "label": "fragrances",
       "checked": false,
-      "id": "1eca"
+      "id": "f7de"
     },
     {
       "value": "skincare",
       "label": "skincare",
       "checked": false,
-      "id": "f43a"
+      "id": "21d5"
     },
     {
       "value": "groceries",
       "label": "groceries",
       "checked": false,
-      "id": "5442"
+      "id": "31d8"
     },
     {
       "value": "home-decoration",
       "label": "home decoration",
       "checked": false,
-      "id": "fc1c"
+      "id": "6a00"
     },
     {
       "value": "furniture",
       "label": "furniture",
       "checked": false,
-      "id": "2155"
+      "id": "bd41"
     },
     {
       "value": "tops",
       "label": "tops",
       "checked": false,
-      "id": "eee8"
+      "id": "2f9a"
     },
     {
       "value": "womens-dresses",
       "label": "womens dresses",
       "checked": false,
-      "id": "0a30"
+      "id": "231c"
     },
     {
       "value": "womens-shoes",
       "label": "womens shoes",
       "checked": false,
-      "id": "db04"
+      "id": "0823"
     },
     {
       "value": "mens-shirts",
       "label": "mens shirts",
       "checked": false,
-      "id": "9a40"
+      "id": "cafa"
     },
     {
       "value": "mens-shoes",
       "label": "mens shoes",
       "checked": false,
-      "id": "201a"
+      "id": "23fb"
     },
     {
       "value": "mens-watches",
       "label": "mens watches",
       "checked": false,
-      "id": "4477"
+      "id": "327f"
     },
     {
       "value": "womens-watches",
       "label": "womens watches",
       "checked": false,
-      "id": "dc49"
+      "id": "8468"
     },
     {
       "value": "womens-bags",
       "label": "womens bags",
       "checked": false,
-      "id": "c047"
+      "id": "e9c2"
     },
     {
       "value": "womens-jewellery",
       "label": "womens jewellery",
       "checked": false,
-      "id": "bf8e"
+      "id": "cbe2"
     },
     {
       "value": "sunglasses",
       "label": "sunglasses",
       "checked": false,
-      "id": "b726"
+      "id": "f23c"
     },
     {
       "value": "automotive",
       "label": "automotive",
       "checked": false,
-      "id": "eb16"
+      "id": "7514"
     },
     {
       "value": "motorcycle",
       "label": "motorcycle",
       "checked": false,
-      "id": "31ad"
+      "id": "456a"
     },
     {
       "value": "lighting",
       "label": "lighting",
       "checked": false,
-      "id": "96c5"
+      "id": "be6c"
     }
   ],
   "users": [
     {
-      "id": "a9a6",
-      "name": "Karthik Jangam",
-      "imageUrl": "https://avatars.githubusercontent.com/u/102133551?s=400&u=245168ca77df743125550d76bf5bb74b6ed075f8&v=4",
+      "email": "test@gmail.com",
+      "password": "1q2w3e4r5T@",
+      "role": "user",
+      "addresses": [
+        {
+          "name": "Test",
+          "email": "test@gmail.com",
+          "phone": "1234567788",
+          "street": "11th Main",
+          "city": "Banaglore",
+          "state": "Karnataka",
+          "pinCode": "560034"
+        },
+        {
+          "name": "Jack Morris",
+          "email": "jack@gmail.com",
+          "city": "Delhi",
+          "state": "Delhi",
+          "pinCode": "110006",
+          "phone": "12312331232",
+          "street": "12th cross"
+        }
+      ],
+      "id": "1"
+    },
+    {
+      "email": "demo@gmail.com",
+      "password": "1q2w3e4r5T@",
+      "role": "user",
+      "addresses": [
+        {
+          "name": "Demo user",
+          "email": "demo@gmail.com",
+          "phone": "1234567788",
+          "street": "11th Main",
+          "city": "Mumbai",
+          "state": "Maharastra",
+          "pinCode": "220001"
+        }
+      ],
+      "id": "2"
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "1q2w3e4r5T",
+      "addresses": [],
+      "role": "admin",
+      "id": "3"
+    },
+    {
+      "id": "b9a2",
       "email": "KarthikJangam@gmail.com",
       "password": "1q2w3e4r5T",
-      "addresses": []
+      "addresses": [
+        {
+          "name": "Karthik Jangam",
+          "email": "KarthikJangam@gmail.com",
+          "phone": "8639055246",
+          "street": "21-405-44/1 kaparthi nagar ,behind rtc bus stand, adoni,518301,andhra pradesh",
+          "city": "adoni",
+          "state": "Andhra Pradesh",
+          "pinCode": "518301"
+        }
+      ],
+      "role": "user"
     }
   ],
   "cart": [],
-  "orders": []
+  "orders": [
+    {
+      "items": [
+        {
+          "title": "iPhone X",
+          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+          "price": 899,
+          "discountPercentage": 17.94,
+          "rating": 4.44,
+          "stock": 34,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/2/1.jpg",
+            "https://i.dummyjson.com/data/products/2/2.jpg",
+            "https://i.dummyjson.com/data/products/2/3.jpg",
+            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+          ],
+          "quantity": 2,
+          "user": 1,
+          "id": 6
+        }
+      ],
+      "totalAmount": 1798,
+      "totalItems": 2,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "1q2w3e4r5T@",
+        "addresses": [
+          {
+            "name": "Abhishek R",
+            "email": "test@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Banaglore",
+            "state": "Karnataka",
+            "pinCode": "560034"
+          },
+          {
+            "name": "Abhishek R",
+            "email": "test@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Banaglore",
+            "state": "Karnataka",
+            "pinCode": "560034"
+          }
+        ],
+        "id": 1
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Abhishek R",
+        "email": "test@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Banaglore",
+        "state": "Karnataka",
+        "pinCode": "560034"
+      },
+      "status": "pending",
+      "id": "1"
+    },
+    {
+      "items": [
+        {
+          "title": "iPhone X",
+          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+          "price": 899,
+          "discountPercentage": 17.94,
+          "rating": 4.44,
+          "stock": 34,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/2/1.jpg",
+            "https://i.dummyjson.com/data/products/2/2.jpg",
+            "https://i.dummyjson.com/data/products/2/3.jpg",
+            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+          ],
+          "quantity": 2,
+          "user": 1,
+          "id": 6
+        }
+      ],
+      "totalAmount": 1798,
+      "totalItems": 2,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "1q2w3e4r5T@",
+        "addresses": [
+          {
+            "name": "Abhishek R",
+            "email": "test@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Banaglore",
+            "state": "Karnataka",
+            "pinCode": "560034"
+          },
+          {
+            "name": "Abhishek R",
+            "email": "test@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Banaglore",
+            "state": "Karnataka",
+            "pinCode": "560034"
+          }
+        ],
+        "id": 1
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Abhishek R",
+        "email": "test@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Banaglore",
+        "state": "Karnataka",
+        "pinCode": "560034"
+      },
+      "status": "pending",
+      "id": "2"
+    },
+    {
+      "items": [
+        {
+          "id": 3,
+          "title": "Samsung Universe 9",
+          "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+          "price": 1249,
+          "discountPercentage": 15.46,
+          "rating": 4.09,
+          "stock": 36,
+          "brand": "Samsung",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/3/1.jpg"
+          ],
+          "quantity": 2,
+          "user": 2
+        },
+        {
+          "id": 5,
+          "title": "Huawei P30",
+          "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+          "price": 499,
+          "discountPercentage": 10.58,
+          "rating": 4.09,
+          "stock": 32,
+          "brand": "Huawei",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/5/1.jpg",
+            "https://i.dummyjson.com/data/products/5/2.jpg",
+            "https://i.dummyjson.com/data/products/5/3.jpg"
+          ],
+          "quantity": 1,
+          "user": 2
+        }
+      ],
+      "totalAmount": 2997,
+      "totalItems": 3,
+      "user": {
+        "email": "demo@gmail.com",
+        "password": "1q2w3e4r5T@",
+        "addresses": [
+          {
+            "name": "Demo user",
+            "email": "demo@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Mumbai",
+            "state": "Maharastra",
+            "pinCode": "220001"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "Demo user",
+        "email": "demo@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Mumbai",
+        "state": "Maharastra",
+        "pinCode": "220001"
+      },
+      "status": "pending",
+      "id": "3"
+    },
+    {
+      "items": [
+        {
+          "title": "iPhone 9",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 549,
+          "discountPercentage": 12.96,
+          "rating": 4.69,
+          "stock": 94,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/1/1.jpg",
+            "https://i.dummyjson.com/data/products/1/2.jpg",
+            "https://i.dummyjson.com/data/products/1/3.jpg",
+            "https://i.dummyjson.com/data/products/1/4.jpg",
+            "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+          ],
+          "quantity": 2,
+          "user": 1,
+          "id": 1
+        }
+      ],
+      "totalAmount": 1098,
+      "totalItems": 2,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "1q2w3e4r5T@",
+        "addresses": [
+          {
+            "name": "Abhishek R",
+            "email": "test@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Banaglore",
+            "state": "Karnataka",
+            "pinCode": "560034"
+          },
+          {
+            "name": "Abhishek R",
+            "email": "test@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Banaglore",
+            "state": "Karnataka",
+            "pinCode": "560034"
+          }
+        ],
+        "id": 1
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Abhishek R",
+        "email": "test@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Banaglore",
+        "state": "Karnataka",
+        "pinCode": "560034"
+      },
+      "status": "pending",
+      "id": "4"
+    },
+    {
+      "items": [
+        {
+          "title": "iPhone X",
+          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+          "price": 899,
+          "discountPercentage": 17.94,
+          "rating": 4.44,
+          "stock": 34,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/2/1.jpg",
+            "https://i.dummyjson.com/data/products/2/2.jpg",
+            "https://i.dummyjson.com/data/products/2/3.jpg",
+            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+          ],
+          "quantity": 1,
+          "user": 1,
+          "id": 1
+        }
+      ],
+      "totalAmount": 899,
+      "totalItems": 1,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "1q2w3e4r5T@",
+        "addresses": [
+          {
+            "name": "Test",
+            "email": "test@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Banaglore",
+            "state": "Karnataka",
+            "pinCode": "560034"
+          },
+          {
+            "name": "Jack Morris",
+            "email": "jack@gmail.com",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pinCode": "110006",
+            "phone": "12312331232",
+            "street": "12th cross"
+          }
+        ],
+        "id": 1
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Test",
+        "email": "test@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Banaglore",
+        "state": "Karnataka",
+        "pinCode": "560034"
+      },
+      "status": "pending",
+      "id": "5"
+    },
+    {
+      "id": "7183",
+      "items": [
+        {
+          "id": "ea44",
+          "title": "iPhone 13",
+          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+          "price": 1111,
+          "discountPercentage": 17.94,
+          "rating": 0,
+          "stock": 34,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/2/1.jpg",
+            "https://i.dummyjson.com/data/products/2/2.jpg",
+            "https://i.dummyjson.com/data/products/2/3.jpg",
+            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+          ],
+          "quantity": 1,
+          "user": "b9a2"
+        }
+      ],
+      "totalAmount": 1111,
+      "totalItems": 1,
+      "user": {
+        "id": "b9a2",
+        "email": "KarthikJangam@gmail.com",
+        "password": "1q2w3e4r5T",
+        "addresses": [
+          {
+            "name": "Karthik Jangam",
+            "email": "KarthikJangam@gmail.com",
+            "phone": "8639055246",
+            "street": "21-405-44/1 kaparthi nagar ,behind rtc bus stand, adoni,518301,andhra pradesh",
+            "city": "adoni",
+            "state": "Andhra Pradesh",
+            "pinCode": "518301"
+          }
+        ],
+        "role": "user"
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Karthik Jangam",
+        "email": "KarthikJangam@gmail.com",
+        "phone": "8639055246",
+        "street": "21-405-44/1 kaparthi nagar ,behind rtc bus stand, adoni,518301,andhra pradesh",
+        "city": "adoni",
+        "state": "Andhra Pradesh",
+        "pinCode": "518301"
+      },
+      "status": "pending"
+    },
+    {
+      "id": "7770",
+      "items": [
+        {
+          "id": "1cfd",
+          "title": "iPhone 9",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 993,
+          "discountPercentage": 12.96,
+          "rating": 0,
+          "stock": 94,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://m.media-amazon.com/images/I/61CAYVr34QL._SX522_.jpg",
+          "images": [
+            "https://m.media-amazon.com/images/I/61CAYVr34QL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/61CAYVr34QL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/61wIVtrz54L._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/71G44HUh7yL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/71G44HUh7yL._SX522_.jpg"
+          ],
+          "deleted": true,
+          "quantity": 1,
+          "user": "b9a2"
+        }
+      ],
+      "totalAmount": 993,
+      "totalItems": 1,
+      "user": {
+        "id": "b9a2",
+        "email": "KarthikJangam@gmail.com",
+        "password": "1q2w3e4r5T",
+        "addresses": [
+          {
+            "name": "Karthik Jangam",
+            "email": "KarthikJangam@gmail.com",
+            "phone": "8639055246",
+            "street": "21-405-44/1 kaparthi nagar ,behind rtc bus stand, adoni,518301,andhra pradesh",
+            "city": "adoni",
+            "state": "Andhra Pradesh",
+            "pinCode": "518301"
+          }
+        ],
+        "role": "user"
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Karthik Jangam",
+        "email": "KarthikJangam@gmail.com",
+        "phone": "8639055246",
+        "street": "21-405-44/1 kaparthi nagar ,behind rtc bus stand, adoni,518301,andhra pradesh",
+        "city": "adoni",
+        "state": "Andhra Pradesh",
+        "pinCode": "518301"
+      },
+      "status": "pending"
+    }
+  ]
 }
