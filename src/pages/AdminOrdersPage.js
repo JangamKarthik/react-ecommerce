@@ -4,7 +4,7 @@ import NavBar from "../features/navbar/Navbar";
 function AdminOrdersPage() {
     return ( 
         <div>
-            <AdminOrders className="w-full"></AdminOrders>
+            <AdminOrders classname="min-w-full"></AdminOrders>
         </div>
      );
 }
