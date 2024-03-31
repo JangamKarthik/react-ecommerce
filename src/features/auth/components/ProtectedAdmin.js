@@ -14,5 +14,4 @@ function ProtectedAdmin({ children }) {
   return children;
 }
 
-//connected to backend
 export default ProtectedAdmin;

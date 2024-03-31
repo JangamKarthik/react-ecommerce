@@ -15,5 +15,4 @@ function Logout() {
   return <>{!user && <Navigate to="/login" replace={true}></Navigate>}</>;
 }
 
-//connected to backend
 export default Logout;

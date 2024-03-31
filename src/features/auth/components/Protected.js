@@ -11,5 +11,4 @@ function Protected({ children }) {
   return children;
 }
 
-//connected to backend
 export default Protected;

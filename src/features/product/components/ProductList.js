@@ -32,6 +32,7 @@ import { Grid } from 'react-loader-spinner';
 const sortOptions = [
   { name: 'Best Rating', sort: 'rating', order: 'desc', current: false },
   { name: 'Price: Low to High', sort: 'price', order: 'asc', current: false },
+  { name: 'Price: High to Low', sort: 'price', order: 'desc', current: false },
 ];
 
 function classNames(...classes) {
@@ -85,7 +86,7 @@ export default function ProductList() {
   };
 
   const handleSort = (e, option) => {
-    const sort = { _sort: option.sort};
+    const sort = { _sort: option.sort, _order: option.order };
     console.log({ sort });
     setSort(sort);
   };

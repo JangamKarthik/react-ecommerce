@@ -157,4 +157,3 @@ export const selectProductListStatus = (state) => state.product.status;
 export const selectTotalItems = (state) => state.product.totalItems;
 
 export default productSlice.reducer;
-//connected to backend

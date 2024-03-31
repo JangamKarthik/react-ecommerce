@@ -41,6 +41,4 @@ export function fetchAllOrders(sort, pagination) {
     const totalOrders = await response.headers.get('X-Total-Count');
     resolve({ data: { orders: data, totalOrders: +totalOrders } });
   });
-  //connected to backend
-
 }

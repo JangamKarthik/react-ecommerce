@@ -105,4 +105,3 @@ export default function Modal({title,message,dangerOption,cancelOption, dangerAc
     </Transition.Root>
   );
 }
-//connected to backend
