@@ -36,4 +36,5 @@ export function signOut(userId) {
     // TODO: on server we will remove user session info
     resolve({ data: 'success' });
   });
+  //connected to backend
 }

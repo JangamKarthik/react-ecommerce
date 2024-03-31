@@ -164,4 +164,5 @@ export default function Cart() {
       </div>
     </>
   );
+  //connected to backend
 }

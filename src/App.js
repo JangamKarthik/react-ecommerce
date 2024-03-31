@@ -149,7 +149,7 @@ const router = createBrowserRouter([
     element: <OrdersEmpty></OrdersEmpty>,
   },
 ]);
-
+//connected to backend
 function App() {
   const dispatch = useDispatch();
   const user = useSelector(selectLoggedInUser);

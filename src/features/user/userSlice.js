@@ -78,3 +78,4 @@ export const selectUserInfo = (state) => state.user.userInfo;
 // export const { increment } = userSlice.actions;
 
 export default userSlice.reducer;
+//connected to backend

@@ -93,4 +93,5 @@ export function fetchBrands() {
     const data = await response.json();
     resolve({ data });
   });
+  //connected to backend
 }

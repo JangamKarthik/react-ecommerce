@@ -10,4 +10,5 @@ export default function Order() {
       <div>{/* We will use to show orders on Admin Page */}</div>
     </div>
   );
+  //connected to backend
 }

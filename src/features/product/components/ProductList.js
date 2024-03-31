@@ -109,6 +109,8 @@ export default function ProductList() {
     dispatch(fetchBrandsAsync());
     dispatch(fetchCategoriesAsync());
   }, [] );
+  //connected to backend
+
 
   return (
     <div className="bg-white">

@@ -76,3 +76,4 @@ export default function Pagination({ page, setPage, handlePage, totalItems }) {
       </div>
     );
   }
+//connected to backend

@@ -527,4 +527,5 @@ export default function UserProfile() {
       </div>
     </div>
   );
+  //connected to backend
 }

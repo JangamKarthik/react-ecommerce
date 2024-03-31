@@ -77,7 +77,7 @@ function Checkout() {
     //TODO : clear cart after order
     //TODO : on server change the stock number of items
   };
-
+//connected to backend
   return (
     <>
       {!items.length && <Navigate to="/Empty" replace={true}></Navigate>}

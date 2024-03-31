@@ -240,5 +240,5 @@ function NavBar({ children }) {
     </>
   );
 }
-
+//connected to backend
 export default NavBar;

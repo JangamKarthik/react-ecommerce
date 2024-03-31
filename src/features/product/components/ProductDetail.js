@@ -376,5 +376,6 @@ export default function ProductDetail() {
         </div>
       )}
     </div>
+    //connected to backend
   );
 }

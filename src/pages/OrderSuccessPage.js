@@ -42,5 +42,5 @@ function OrderSuccessPage() {
     </>
   );
 }
-
+//connected to backend
 export default OrderSuccessPage;

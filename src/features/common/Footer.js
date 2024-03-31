@@ -45,5 +45,6 @@ function Footer() {
       </>
     );
   }
-  
+  //connected to backend
+
   export default Footer;

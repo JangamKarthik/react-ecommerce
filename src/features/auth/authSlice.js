@@ -90,5 +90,6 @@ export const selectLoggedInUser = (state) => state.auth.loggedInUser;
 export const selectError = (state) => state.auth.error;
 
 // export const { } = authSlice.actions;
+//connected to backend
 
 export default authSlice.reducer;

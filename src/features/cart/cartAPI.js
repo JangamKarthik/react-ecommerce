@@ -54,7 +54,7 @@ export function deleteItemFromCart(itemId) {
     resolve({ data: { id: itemId } });
   });
 }
-
+//connected to backend
 export function resetCart(userId) {
   // get all items of user's cart - and then delete each
   return new Promise(async (resolve) => {

@@ -102,5 +102,5 @@ export const cartSlice = createSlice({
 
 export const selectItems = (state) => state.cart.items;
 export const selectCartStatus = (state) => state.cart.status;
-
+//connected to backend
 export default cartSlice.reducer;
